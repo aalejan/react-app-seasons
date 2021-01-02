@@ -20,7 +20,8 @@
   "homepage": "https://github.com/aalejan/react-app-seasons#readme",
   "dependencies": {
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "semantic-ui-css": "^2.4.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",
